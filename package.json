@@ -1,0 +1,21 @@
+{
+  "name": "Cylon.js-Pebble-Sphero",
+  "version": "1.0.0",
+  "description": "Cylon.js-Pebble-Sphero ======================",
+  "main": "watch-sphero.js",
+  "dependencies": {
+    "cylon": "^0.19.1",
+    "cylon-pebble": "^0.12.1",
+    "cylon-sphero": "^0.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worzy/Cylon.js-Pebble-Sphero.git"
+  },
+  "author": "@frogstew - Gareth Drew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/worzy/Cylon.js-Pebble-Sphero/issues"
+  },
+  "homepage": "https://github.com/worzy/Cylon.js-Pebble-Sphero"
+}
