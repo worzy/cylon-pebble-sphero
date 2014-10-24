@@ -1,6 +1,6 @@
 {
   "name": "Cylon.js-Pebble-Sphero",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Cylon.js-Pebble-Sphero ======================",
   "main": "watch-sphero.js",
   "dependencies": {
